@@ -42,7 +42,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 
 **Tech Stack:**
 <div style="display:block">
-  ![Project Tech](https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript)
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript">
 </div>
 
 ---
@@ -58,7 +58,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 
 **Tech Stack:**
 <div style="display:block">
-![Project Tech](https://skillicons.dev/icons?i=nextjs,graphql,prisma,typescript,docker)
+<img src="https://skillicons.dev/icons?i=nextjs,graphql,prisma,typescript,docker" >
 </div>
 ---
 
@@ -73,7 +73,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 
 **Tech Stack:**
 <div style="display:block">
-![Project Tech](https://skillicons.dev/icons?i=react,firebase,tailwind,typescript)
+<img src="https://skillicons.dev/icons?i=react,firebase,tailwind,typescript">
 </div>
 
 ## 🌐 Connect With Me
