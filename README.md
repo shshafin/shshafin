@@ -83,10 +83,6 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 ### 🏆 GitHub Performance Metrics
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shafin&theme=radical&no-frame=true&column=7)
 
-### 📈 Code Contribution Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin&layout=compact&theme=radical)
-
 
 
 ## 🌐 Connect With Me
