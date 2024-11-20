@@ -62,14 +62,14 @@ Simplifying travel with efficient search, route mapping, and user-friendly booki
 
 ## 📊 GitHub Stats  
 
-### 📈 Contribution Graph  
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shafin&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafin&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
-### 📅 Streak Stats  
+### 📅 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shafin&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shafin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 💻 GitHub Stats  
