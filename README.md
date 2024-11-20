@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=Shafin%20Kamal&fontSize=60&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=Shafin%20&fontSize=60&fontColor=ffffff" width="100%"/>
 </div>
 
 # 🚀 Innovative Technology Solutions | Full-Stack Developer
@@ -128,7 +128,7 @@ Passionate technology professional dedicated to architecting cutting-edge digita
 
 ## 💡 Professional Philosophy
 
-> "Transforming complex challenges into elegant technological solutions, one line of code at a time." - Shafin Kamal
+> "Transforming complex challenges into elegant technological solutions, one line of code at a time." - Shafin 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer" width="100%"/>
