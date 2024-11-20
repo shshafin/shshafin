@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,7&height=250&section=header&text=Shafin%20Ahmed&fontSize=70&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=250&section=header&text=Shafin&fontSize=70&fontColor=ffffff" width="100%"/>
 </div>
 
-# 💫 Full-Stack Developer | Tech Innovator | Digital Architect
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shafin&color=blueviolet&style=for-the-badge)
+# Full-Stack Developer | Tech Innovator | Digital Architect
 
 ## 🌈 About Me
 
@@ -13,60 +11,62 @@ Passionate tech innovator transforming complex ideas into elegant digital soluti
 ## 🔧 Technology Arsenal
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=javascript,typescript,c,cpp,python)
+![Languages](https://skillicons.dev/icons?i=javascript,typescript,c,cpp)
 
-### 🚀 Frontend Mastery
+### 🚀 Frontend Technologies
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,figma)
 
 ### 🌐 Backend & Cloud
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase,graphql)
 
-### 🛠️ Tools & DevOps
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,postman,webpack)
+### 🛠️ Tools & Development
+![Tools](https://skillicons.dev/icons?i=git,vscode,postman,webpack)
 
 ## 🌟 Signature Projects
 
-### 🎯 Meet N Marry - Intelligent Matchmaking Platform
+### Meet N Marry - Intelligent Matchmaking Platform
+**Technology Stack:**
 <div>
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </div>
 
-**Key Innovations:**
-- 💘 Advanced Compatibility Algorithms
-- 🔒 Secure, Privacy-Focused Authentication
-- 📊 Intelligent Matching Ecosystem
+**Project Links:**
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Shafin/meet-n-marry)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://meet-n-marry.vercel.app)
 
-### 🛒 Universal Shop 24 - Next-Gen E-Commerce Platform
+### Universal Shop 24 - Next-Gen E-Commerce Platform
+**Technology Stack:**
 <div>
-  <img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js" alt="NextJS"/>
-  <img src="https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
 </div>
 
-**Core Features:**
-- 🚀 Scalable Microservices Architecture
-- 🤖 AI-Powered Recommendation Engine
-- 💳 Seamless Payment Integrations
+**Project Links:**
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Shafin/universal-shop-24)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://universal-shop-24.vercel.app)
 
-### ✈️ Tour n Travel - Smart Travel Companion
+### Tour n Travel - Smart Travel Companion
+**Technology Stack:**
 <div>
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Google Maps API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps API"/>
 </div>
 
-**Breakthrough Technologies:**
-- 🗺️ Real-Time Route Optimization
-- 🌍 Personalized Travel Insights
-- 📱 Cross-Platform Experience
+**Project Links:**
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Shafin/tour-n-travel)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://tour-n-travel.vercel.app)
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafin&theme=radical" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shafin&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
@@ -88,8 +88,10 @@ Passionate tech innovator transforming complex ideas into elegant digital soluti
 
 ## 💡 Professional Philosophy
 
-> "Code is poetry in motion, transforming abstract thoughts into digital realities that shape our world." - Shafin Ahmed
+> "Code is poetry in motion, transforming abstract thoughts into digital realities that shape our world." - Shafin
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=footer" width="100%"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shafin&color=blueviolet&style=for-the-badge)
 </div>
