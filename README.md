@@ -1,101 +1,104 @@
-<h1 align="center">✨ Hey there, I'm Shafin! ✨</h1>
-<h3 align="center">Full-Stack Web Developer | Innovator | Problem-Solver</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shafin%20Ahmed&fontSize=70&fontColor=fff" width="100%"/>
+</div>
+
+<h2 align="center">🚀 Full-Stack Web Developer | Tech Innovator | Digital Craftsman</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Crafting+Digital+Experiences;Solving+Real-World+Problems;Learning+Every+Single+Day!" alt="Typing animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=2E86AB&center=true&width=600&lines=Transforming+Ideas+into+Digital+Realities;Building+Scalable+Web+Solutions;Solving+Complex+Challenges+with+Code" alt="Typing Animation"/>
+  </a>
 </p>
 
----
+## 🌈 About Me
 
-## 🌟 About Me
+I'm a passionate full-stack developer who transforms complex problems into elegant digital solutions. With a blend of technical expertise and creative problem-solving, I craft experiences that matter.
 
-Hi, I'm Shafin! 🚀 A passionate **Full-Stack Developer** who loves creating impactful solutions. I believe in **learning by doing** and constantly push the boundaries of what technology can achieve.
+### 🔬 Professional Snapshot
+- 💼 **3+ Years** of Innovative Development Experience
+- 🌐 Specialized in **Full-Stack Web Technologies**
+- 🚀 Open-Source Contributor & Tech Enthusiast
+- 🧠 Continuous Learner | Competitive Programming Aficionado
 
-### 🚀 Highlights:
-- 👨‍💻 Over **3 years of experience** in building scalable web applications.  
-- 🔍 Passionate about **problem-solving** and optimizing performance.  
-- 🌐 Open-source contributor and tech enthusiast.  
-- 🧩 Currently focused on mastering **mobile app development** and **competitive programming**.  
+## 💻 Technology Arsenal
 
----
-
-## 🛠️ Tech Stack  
-### 👨‍💻 Languages:  
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,mongodb,tailwind,git,github,postman" />
 </p>
 
-### 🌟 Frameworks & Libraries:  
+### 🛠 Advanced Skill Breakdown
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend Mastery</strong><br>
+      React, Next.js, TypeScript<br>
+      Tailwind CSS, Responsive Design
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend Expertise</strong><br>
+      Node.js, Express<br>
+      MongoDB, PostgreSQL<br>
+      REST API Design
+    </td>
+    <td align="center" width="33%">
+      <strong>DevOps & Tools</strong><br>
+      Git Version Control<br>
+      Postman, CI/CD<br>
+      Performance Optimization
+    </td>
+  </tr>
+</table>
+
+## 🌟 Featured Projects
+
+<details>
+<summary>🔗 Highlight Projects</summary>
+
+### 🚀 Meet N Marry
+- 💡 Modern Matrimony Platform
+- ✨ Advanced Matching Algorithms
+- 🔍 Dynamic User Filters
+
+### 🛍️ Universal Shop 24
+- 📊 E-commerce with Analytics
+- 🔎 Intelligent Search Functionality
+- 📈 User Behavior Insights
+
+### ✈️ Tour n Travel
+- 🗺️ Comprehensive Travel Solution
+- 📍 Route Mapping Integration
+- 🎫 Seamless Booking Experience
+</details>
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shafin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shafin&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-### 🛠️ Tools:  
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafin&theme=algolia" alt="Shafin's Streak"/>
 </p>
 
----
+## 🌐 Connect & Collaborate
 
-## 💼 Featured Projects
-
-### 🔗 [Meet N Marry](https://www.meetnmarry.com/)  
-A modern matrimony platform with **premium features**, **dynamic filters**, and a seamless user interface.
-
-### 🔗 Universal Shop 24  
-An e-commerce platform featuring **demographic analytics**, **powerful search**, and an intuitive design.
-
-### 🔗 **Tour n Travel**  
-Simplifying travel with efficient search, route mapping, and user-friendly booking options.
-
----
-
-## 📊 GitHub Stats  
-
-### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafin&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-### 📅 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shafin&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 💡 Philosophical Code
 
-### 💻 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+> "In the world of technology, innovation is not just about writing code, but about solving human problems creatively." - Shafin Ahmed
 
----
-
-## 🌐 Let's Connect  
-<p align="center">
-  <a href="mailto:shafin@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shafin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.proitpark.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-## 💡 Fun Facts  
-
-- 📖 I write my thoughts in a diary gifted by my partner.  
-- 🏆 Competitive programming enthusiast on Codeforces.  
-- 🌟 Always ready to learn and grow, one project at a time!  
-
----
-
-## Quote of the Day:  
-_"The journey of a thousand miles begins with a single step."_ – Lao Tzu  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+</div>
