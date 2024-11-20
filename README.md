@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=Shafin%20Kamal&fontSize=60&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=Shafin&fontSize=60&fontColor=ffffff" width="100%"/>
 </div>
 
 # 🚀 Innovative Technology Solutions | Full-Stack Developer
@@ -47,21 +47,27 @@ Passionate technology professional dedicated to architecting cutting-edge digita
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **🌟 Project Highlights**
-- 🔐 **Advanced Authentication**
-  - Implemented robust user verification
-  - Multi-factor authentication mechanisms
+- 🔐 **Advanced Authentication**  
+  Implemented robust user verification  
+  Multi-factor authentication mechanisms
 
-- 🤝 **Intelligent Matching Algorithms**
-  - AI-driven compatibility scoring
-  - Sophisticated preference filtering
+- 🤝 **Intelligent Matching Algorithms**  
+  AI-driven compatibility scoring  
+  Sophisticated preference filtering
 
-- 📊 **Comprehensive User Analytics**
-  - Detailed profile insights
-  - Machine learning-powered recommendations
+- 📊 **Comprehensive User Analytics**  
+  Detailed profile insights  
+  Machine learning-powered recommendations
 
-**Project Resources**
-[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/meet-n-marry)
+**Tech Stack**
+- Frontend: React.js, TypeScript  
+- Backend: Node.js, Express.js  
+- Database: MongoDB
+
+[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/meet-n-marry)  
 [<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://meet-n-marry.vercel.app)
+
+---
 
 ### 🛍️ Universal Shop 24 - Enterprise E-Commerce Platform
 
@@ -71,21 +77,27 @@ Passionate technology professional dedicated to architecting cutting-edge digita
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **🌟 Project Highlights**
-- 🤖 **Intelligent Product Recommendations**
-  - Machine learning-driven suggestion engine
-  - Personalized shopping experiences
+- 🤖 **Intelligent Product Recommendations**  
+  Machine learning-driven suggestion engine  
+  Personalized shopping experiences
 
-- 💳 **Secure Transaction Management**
-  - Advanced payment gateway integrations
-  - Multi-method payment support
+- 💳 **Secure Transaction Management**  
+  Advanced payment gateway integrations  
+  Multi-method payment support
 
-- 📈 **Dynamic Inventory System**
-  - Real-time stock tracking
-  - Automated restocking intelligence
+- 📈 **Dynamic Inventory System**  
+  Real-time stock tracking  
+  Automated restocking intelligence
 
-**Project Resources**
-[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/universal-shop-24)
+**Tech Stack**
+- Frontend: React.js, Next.js, TypeScript  
+- Backend: Node.js, Express.js  
+- Database: MongoDB, PostgreSQL
+
+[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/universal-shop-24)  
 [<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://universal-shop-24.vercel.app)
+
+---
 
 ### ✈️ Tour n Travel - Innovative Travel Companion
 
@@ -95,21 +107,26 @@ Passionate technology professional dedicated to architecting cutting-edge digita
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **🌟 Project Highlights**
-- 🗺️ **Intelligent Route Optimization**
-  - Advanced geographical routing
-  - Real-time travel insights
+- 🗺️ **Intelligent Route Optimization**  
+  Advanced geographical routing  
+  Real-time travel insights
 
-- 🌍 **Comprehensive Travel Intelligence**
-  - Contextual destination recommendations
-  - Cultural information aggregation
+- 🌍 **Comprehensive Travel Intelligence**  
+  Contextual destination recommendations  
+  Cultural information aggregation
 
-- 📱 **Responsive Design Architecture**
-  - Cross-platform user experience
-  - Adaptive interface methodology
+- 📱 **Responsive Design Architecture**  
+  Cross-platform user experience  
+  Adaptive interface methodology
 
-**Project Resources**
-[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/tour-n-travel)
+**Tech Stack**
+- Frontend: React.js, Tailwind CSS  
+- Backend: Firebase  
+
+[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/tour-n-travel)  
 [<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://tour-n-travel.vercel.app)
+
+---
 
 ## 📊 Professional Analytics
 
@@ -122,14 +139,16 @@ Passionate technology professional dedicated to architecting cutting-edge digita
 
 ## 🌐 Professional Network
 
-[<img src="https://img.shields.io/badge/Professional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@example.com)
-[<img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourusername)
-[<img src="https://img.shields.io/badge/Professional%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://your-portfolio-website.com)
+[<img src="https://img.shields.io/badge/Professional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@example.com)  
+[<img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourusername)  
+[<img src="https://img.shields.io/badge/Professional%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://shafin.dev)  
 
-## 💡 Professional Philosophy
+---
 
-> "Transforming complex challenges into elegant technological solutions, one line of code at a time." - Shafin Kamal
+**📍 Location**  
+Global Remote Services | 🇧🇩 Bangladesh  
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer" width="100%"/>
-</div>
+---
+
+Made with 💙 for coding.
+
