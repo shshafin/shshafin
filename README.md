@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Shafin
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=Shafin&fontSize=60&fontColor=ffffff" width="100%"/>
+</div>
 
-## 💻 Full-Stack Developer | Tech Innovator | Digital Architect
+# 🚀 Innovative Technology Solutions | Full-Stack Developer
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=000000&center=true&width=600&lines=Crafting+Scalable+Digital+Solutions;Transforming+Ideas+into+Elegant+Code;Solving+Complex+Challenges+with+Precision)
-
-## 🚀 About Me
+## 👨🏻‍🔬 About Me
 
 Passionate full-stack developer transforming innovative ideas into robust digital solutions. With a strategic approach to problem-solving and a keen eye for detail, I craft elegant, efficient code that pushes technological boundaries.
 
@@ -80,3 +80,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shafin&color=blue&style=flat-square)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer" width="100%"/>
+</div>
