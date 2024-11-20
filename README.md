@@ -60,8 +60,8 @@ Passionate technology professional dedicated to architecting cutting-edge digita
   - Machine learning-powered recommendations
 
 **Project Resources**
-[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/meet-n-marry)  
-[<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://meet-n-marry.vercel.app)
+[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/tour-n-travel)  
+[<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://tour-n-travel.vercel.app)
 
 ### 🛍️ Universal Shop 24 - Enterprise E-Commerce Platform
 
