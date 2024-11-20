@@ -60,7 +60,7 @@ Passionate technology professional dedicated to architecting cutting-edge digita
   - Machine learning-powered recommendations
 
 **Project Resources**
-[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/meet-n-marry)
+[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/meet-n-marry)  
 [<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://meet-n-marry.vercel.app)
 
 ### 🛍️ Universal Shop 24 - Enterprise E-Commerce Platform
@@ -84,8 +84,8 @@ Passionate technology professional dedicated to architecting cutting-edge digita
   - Automated restocking intelligence
 
 **Project Resources**
-[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/universal-shop-24)
-[<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://universal-shop-24.vercel.app)
+[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/meet-n-marry)  
+[<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://meet-n-marry.vercel.app)
 
 ### ✈️ Tour n Travel - Innovative Travel Companion
 
@@ -108,8 +108,8 @@ Passionate technology professional dedicated to architecting cutting-edge digita
   - Adaptive interface methodology
 
 **Project Resources**
-[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/tour-n-travel)
-[<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://tour-n-travel.vercel.app)
+[<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />](https://github.com/Shafin/meet-n-marry)  
+[<img src="https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge" />](https://meet-n-marry.vercel.app)
 
 ## 📊 Professional Analytics
 
