@@ -43,6 +43,9 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 **Tech Stack:**
 ![Project Tech](https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript)
 
+<br>
+--
+
 ### 🛒 Universal Shop 24 - Next-Gen E-Commerce Platform
 [![Repository](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Shafin/universal-shop-24)
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://universal-shop-24.vercel.app)
