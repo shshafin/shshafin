@@ -1,107 +1,82 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Shafin%20Ahmed&fontSize=70&fontColor=fff" width="100%"/>
-</div>
+# 👋 Hi, I'm Shafin
 
-<h2 align="center">💻 Full-Stack Developer | Tech Innovator | Digital Architect</h2>
+## 💻 Full-Stack Developer | Tech Innovator | Digital Architect
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=000000&center=true&width=600&lines=Crafting+Scalable+Digital+Solutions;Transforming+Ideas+into+Elegant+Code;Solving+Complex+Challenges+with+Precision" alt="Typing Animation"/>
-  </a>
-</p>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=000000&center=true&width=600&lines=Crafting+Scalable+Digital+Solutions;Transforming+Ideas+into+Elegant+Code;Solving+Complex+Challenges+with+Precision)
 
-## 🌟 Professional Overview
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafin&theme=vue" alt="GitHub Profile Summary"/>
-</p>
-
-## 💡 About Me
-
-I'm a passionate full-stack developer dedicated to creating innovative, scalable digital solutions. With a strategic approach to problem-solving and a keen eye for detail, I transform complex challenges into elegant, efficient code.
+Passionate full-stack developer transforming innovative ideas into robust digital solutions. With a strategic approach to problem-solving and a keen eye for detail, I craft elegant, efficient code that pushes technological boundaries.
 
 ### 🔬 Professional Highlights
-- 💼 **3+ Years** of Cutting-Edge Development Experience
-- 🌐 Specialized in Full-Stack Web Technologies
+
+- 💼 **Experienced Full-Stack Development Professional**
+- 🌐 Specialized in Cutting-Edge Web Technologies
 - 🚀 Open-Source Contributor & Tech Innovator
 - 🧠 Continuous Learner | Problem-Solving Enthusiast
 
 ## 🛠️ Technology Stack
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp" alt="Programming Languages"/>
-</p>
+### 📝 Languages
+![Languages](https://skillicons.dev/icons?i=javascript,typescript,c,cpp)
 
-### Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" alt="Frontend Technologies"/>
-</p>
+### 🖥️ Frontend Technologies
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux)
 
-### Backend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,docker" alt="Backend Technologies"/>
-</p>
+### 🔙 Backend Technologies
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase)
 
-### Tools & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,linux" alt="Tools and DevOps"/>
-</p>
+### 🛠️ Tools & DevOps
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,webpack)
 
-## 📊 GitHub Analytics
+## 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafin&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin&layout=compact&theme=vue&hide_border=true" alt="Top Languages" height="180em"/>
-</p>
+### 🎯 Meet N Marry - Intelligent Matchmaking Platform
+[![Repository](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Shafin/meet-n-marry)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://meet-n-marry.vercel.app)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafin&theme=vue" alt="GitHub Streak Stats"/>
-</p>
+**Key Features:**
+- 💘 Advanced Matching Algorithms
+- 🔒 Secure User Authentication
+- 📊 Comprehensive Profile Matching System
 
-## 🚀 Featured Projects
+**Tech Stack:**
+![Project Tech](https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript)
 
-<details>
-<summary>🔍 Explore Signature Projects</summary>
+### 🛒 Universal Shop 24 - Next-Gen E-Commerce Platform
+[![Repository](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Shafin/universal-shop-24)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://universal-shop-24.vercel.app)
 
-### 💎 Meet N Marry
-- 🌐 Innovative Matrimony Platform
-- 🔮 Advanced Matching Algorithms
-- 🎯 Personalized User Experiences
+**Highlights:**
+- 🚀 Microservices Architecture
+- 🤖 AI-Powered Product Recommendations
+- 💳 Seamless Payment Integration
 
-### 🛒 Universal Shop 24
-- 📈 E-commerce Platform with Advanced Analytics
-- 🔬 Intelligent Search Capabilities
-- 📊 User Behavior Insights
+**Tech Stack:**
+![Project Tech](https://skillicons.dev/icons?i=nextjs,graphql,prisma,typescript,docker)
 
-### ✈️ Tour n Travel
-- 🗺️ Comprehensive Travel Solution
-- 📍 Smart Route Optimization
-- 🎫 Seamless Booking Experience
-</details>
+### ✈️ Tour n Travel - Smart Travel Companion
+[![Repository](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Shafin/tour-n-travel)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://tour-n-travel.vercel.app)
 
-## 🌐 Professional Connections
+**Key Innovations:**
+- 🗺️ Intelligent Route Optimization
+- 🌍 Real-Time Travel Recommendations
+- 📱 Cross-Platform Responsive Design
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+**Tech Stack:**
+![Project Tech](https://skillicons.dev/icons?i=react,firebase,tailwind,typescript)
+
+## 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-website.com)
 
 ## 💡 Guiding Philosophy
 
-> "Innovation is not just about writing code, but about creating solutions that transform lives and push the boundaries of what's possible." - Shafin Ahmed
+> "Innovation is not just about writing code, but about creating solutions that transform lives and push the boundaries of what's possible." - Shafin
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
-</div>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shafin&color=green&style=flat-square" alt="Profile Views"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Shafin&color=blue&style=flat-square)
