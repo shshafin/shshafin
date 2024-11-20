@@ -42,9 +42,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 
 **Tech Stack:**
 <div style="display:block">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB&label=React.js&color=61DAFB&logoWidth=30&logoHeight=30" width="150"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6&label=TypeScript&color=3178C6&logoWidth=30&logoHeight=30" width="150"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248&label=MongoDB&color=47A248&logoWidth=30&logoHeight=30" width="150"/>
+  ![Project Tech](https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript)
 </div>
 
 ---
@@ -59,8 +57,9 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 - 💳 Seamless Payment Integration
 
 **Tech Stack:**
+<div style="display:block">
 ![Project Tech](https://skillicons.dev/icons?i=nextjs,graphql,prisma,typescript,docker)
-
+</div>
 ---
 
 ### ✈️ Tour n Travel - Smart Travel Companion
@@ -73,7 +72,9 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 - 📱 Cross-Platform Responsive Design
 
 **Tech Stack:**
+<div style="display:block">
 ![Project Tech](https://skillicons.dev/icons?i=react,firebase,tailwind,typescript)
+</div>
 
 ## 🌐 Connect With Me
 
