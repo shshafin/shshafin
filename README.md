@@ -102,7 +102,6 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shafin&color=blue&style=flat-square)
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer" width="100%"/>
 </div>
