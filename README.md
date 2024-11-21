@@ -60,6 +60,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 <div style="display:block">
 <img src="https://skillicons.dev/icons?i=nextjs,graphql,prisma,typescript,docker" >
 </div>
+
 ---
 
 ### ✈️ Tour n Travel - Smart Travel Companion
