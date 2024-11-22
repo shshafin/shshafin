@@ -24,7 +24,9 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux)
 
 ### 🔙 Backend Technologies
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mongoose,prisma,firebase)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase)
+![Mongoose](https://raw.githubusercontent.com/mongodb-js/leaf/master/packages/logo/svg/mongoose.svg)
+
 
 ### 🛠️ Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,webpack)
