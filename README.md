@@ -28,7 +28,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 
 
 ### 🛠️ Tools & DevOps
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,webpack)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ## 🌟 Featured Projects
 
