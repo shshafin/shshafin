@@ -35,5 +35,5 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 ---
 [![](https://visitcount.itsvg.in/api?id=shshafin&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1434A4&height=100&section=footer" width="100%"/>
 </div>
