@@ -31,13 +31,9 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 
 <picture>
   <source 
-    media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/shshafin/shshafin/output/github-snake-dark.svg" 
   />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/shshafin/shshafin/output/github-snake.svg" 
-  />
+  
   <img 
     alt="github-snake" 
     src="https://raw.githubusercontent.com/shshafin/shshafin/output/github-snake.svg" 
