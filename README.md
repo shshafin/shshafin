@@ -16,7 +16,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 - 🧠 Continuous Learner | Problem-Solving Enthusiast
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shafin_0719) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pao.pop.961) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sha_fin282907) 
 
 # 💻 Tech Stack:
