@@ -29,11 +29,7 @@ Passionate full-stack developer transforming innovative ideas into robust digita
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shshafin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shshafin/shshafin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shshafin/shshafin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shshafin/shshafin/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/shshafin/shshafin/blob/output/github-snake-dark.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shshafin&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
