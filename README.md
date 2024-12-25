@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=shafin&fontSize=60&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=250&section=header&text=SHAFIN&fontSize=60&fontColor=ffffff" width="100%"/>
 </div>
 
 # 🚀 Innovative Technology Solutions | Full-Stack Developer
