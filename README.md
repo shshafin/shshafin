@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=280&section=header&text=MD.%20Sadnan%20Hossen%20Shafin&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Full%20Stack%20Developer%20%7C%20AI%20Architecture%20%7C%20System%20Design&descAlignY=48&descAlign=50&fontFamily=Inter" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=220&section=header&text=MD.%20SADNAN%20HOSSEN%20SHAFIN&fontSize=50&fontColor=ffffff&animation=twinkle&fontAlignY=40&desc=Enterprise%20Full%20Stack%20Developer%20%7C%20AI%20Architecture%20%7C%20System%20Design&descAlignY=65&descAlign=50&fontFamily=Inter" width="100%"/>
 </div>
+
+<br/>
 
 <p align="center">
   <a href="mailto:shafin@shafinsadnan.com">
     <img src="https://img.shields.io/badge/Email-shafin%40shafinsadnan.com-800000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/md-sadnan-hossen-shafin">
-    <img src="https://img.shields.io/badge/LinkedIn-md--sadnan--hossen--shafin-800000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-md--sadnan--hossen--shafin-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/shshafin">
     <img src="https://img.shields.io/badge/GitHub-shshafin-800000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -15,16 +17,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=A71930&center=true&vCenter=true&width=800&lines=Building+Production-Grade+Systems;Architecting+Scalable+Infrastructure;Integrating+AI+%26+Machine+Learning;Optimizing+Database+Performance+at+Scale" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Production-Grade+Systems;Architecting+Scalable+Infrastructure;Automation+%26+Workflow+Optimization;AI+Integration+with+LangChain+%26+Vector+DBs" alt="Typing Animation"/>
 </p>
 
 ---
 
 ## Executive Summary
 
-Enterprise-grade full-stack developer specializing in architecting scalable systems, implementing AI-driven solutions, and optimizing mission-critical database infrastructure. Proven track record delivering production-ready applications across healthcare, e-commerce, and educational platforms. I bridge the gap between business strategy and technical execution.
+Enterprise-grade full-stack developer specializing in architecting scalable systems, building automation pipelines, and integrating AI-driven solutions into production workflows. Proven track record delivering production-ready applications across healthcare, e-commerce, and educational platforms. I bridge the gap between business strategy and technical execution.
 
-**Primary Domains:** Backend Engineering · System Architecture · AI/ML Integration · Database Optimization · DevOps Infrastructure · Business Strategy
+**Primary Domains:** Backend Engineering · System Architecture · Automation & Scripting · AI Integration · Database Optimization · DevOps Infrastructure · Business Strategy
 
 ---
 
@@ -49,14 +51,15 @@ Enterprise-grade full-stack developer specializing in architecting scalable syst
 | **State Management** | Redux Toolkit | Advanced |
 | **Type Safety** | TypeScript (Full Stack) | Expert |
 
-### Artificial Intelligence & Data
+### Python, Automation & AI Integration
 
 | Domain | Technologies | Proficiency |
 |--------|-------------|-------------|
-| **ML Frameworks** | TensorFlow, Scikit-learn | Expert |
-| **Deep Learning** | PyTorch | Intermediate |
-| **Data Engineering** | Pandas, NumPy, Statistical Analysis | Expert |
-| **Model Deployment** | FastAPI Inference Servers, Production Optimization | Expert |
+| **Python Development** | Web Applications, Desktop Apps, CLI Tools, APIs | Expert |
+| **Automation & Scripting** | Workflow Automation, RPA, Scheduled Jobs, Task Orchestration | Expert |
+| **Web Scraping & Data Extraction** | BeautifulSoup, Scrapy, Selenium, Playwright, HTTP Clients | Expert |
+| **AI Integration** | LangChain, Vector Databases (Pinecone, Chroma, Weaviate), OpenAI API, Embeddings | Advanced |
+| **Data Engineering** | Pandas, NumPy, Data Processing Pipelines | Expert |
 
 ### Business & Strategic Operations
 
@@ -71,16 +74,14 @@ Enterprise-grade full-stack developer specializing in architecting scalable syst
 
 ## Engineering Metrics
 
-```
-Production Systems Deployed     15+
-Total Projects Delivered        100+
-GitHub Repositories             60+
-Languages (Primary)             5
-  TypeScript | JavaScript | Python | SQL | Bash
-Database Platforms              3+
-  PostgreSQL | MongoDB | Redis
-Infrastructure                  Docker | Nginx | AWS | CI/CD
-```
+| Metric | Count / Stack |
+| :--- | :--- |
+| **Production Systems Deployed** | `15+` |
+| **Total Projects Delivered** | `100+` |
+| **GitHub Repositories** | `60+` |
+| **Primary Languages** | `TypeScript` · `JavaScript` · `Python` · `SQL` · `Bash` |
+| **Database Platforms** | `PostgreSQL` · `MongoDB` · `Redis` |
+| **Infrastructure & DevOps** | `Docker` · `Nginx` · `AWS` · `CI/CD` |
 
 ---
 
@@ -95,11 +96,11 @@ Infrastructure                  Docker | Nginx | AWS | CI/CD
 - **Scope:** Product catalog, inventory management, payment processing, admin dashboard, real-time notifications
 
 ### CardioLens — Healthcare AI Platform
-**Machine Learning | Medical Systems | HIPAA Compliant**
+**AI Integration | Medical Systems | HIPAA Compliant**
 
-- **ML Backend:** FastAPI, TensorFlow, Python, PostgreSQL
+- **Backend:** FastAPI, Python, PostgreSQL, LangChain, Vector DB Integration
 - **Frontend:** React, TypeScript, Data Visualization
-- **Models:** ECG analysis, cardiac risk prediction, arrhythmia detection
+- **AI Features:** ECG data processing, automated report generation, intelligent query system
 - **Compliance:** HIPAA standards, encrypted storage, secure data handling
 
 ### Bitwise — University Management System
@@ -130,18 +131,19 @@ Infrastructure                  Docker | Nginx | AWS | CI/CD
 | API Response Optimization | 2s → 300ms latency reduction |
 | Docker Image Optimization | 50% reduction in deployment size |
 | Database Load Reduction | 65% decrease via caching strategies |
+| Automation Workflows | 80% reduction in manual operational tasks |
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shshafin&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=A71930&icon_color=A71930&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shshafin&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=A71930&icon_color=A71930&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shshafin&theme=dark&hide_border=true&background=0D1117&stroke=A71930&ring=A71930&fire=A71930&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A71930&sideLabels=E6EDF3&dates=E6EDF3&border_radius=12" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shshafin&theme=dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=A71930&layout=compact&card_width=320&border_radius=12" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shshafin&theme=dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=A71930&layout=compact&card_width=320&border_radius=12" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -196,7 +198,7 @@ Infrastructure                  Docker | Nginx | AWS | CI/CD
 
 - Distributed systems and microservices at scale
 - Advanced PostgreSQL optimization and migration strategies
-- AI/ML model deployment and production inference optimization
+- AI integration with LangChain and vector database architectures
 - Infrastructure as Code and DevOps automation
 - Business process automation and strategic systems design
 - High-performance application architecture
@@ -209,7 +211,7 @@ I am actively seeking opportunities in:
 
 - **Enterprise Application Development** — Scalable, production-ready systems
 - **System Architecture** — Performance, reliability, and growth-oriented design
-- **AI/ML Implementation** — Production-grade artificial intelligence solutions
+- **Automation & AI Integration** — Production-grade workflow automation and intelligent systems
 - **Infrastructure & DevOps** — System optimization and automation
 - **Strategic Consulting** — Technology roadmaps and architecture planning
 - **Technical Leadership** — Mentoring, code review, and architectural guidance
@@ -225,25 +227,22 @@ Every repository includes:
 - API documentation and usage examples
 - Deployment procedures and infrastructure specs
 - Troubleshooting guides and FAQ
+---
 
 <p align="center">
   <a href="https://github.com/shshafin?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-800000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    <img src="https://img.shields.io/badge/View_All_Projects-800000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=100&section=footer&text=Building%20scalable%20systems%20and%20innovative%20solutions&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
 <p align="center">
   <strong>MD. Sadnan Hossen Shafin</strong> — Enterprise Full Stack Developer
-</p>
-
-<p align="center">
-  <sub>Building scalable systems and innovative solutions</sub>
 </p>
 
 <p align="center">
