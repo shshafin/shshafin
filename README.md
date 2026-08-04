@@ -1,39 +1,196 @@
+# 👨‍💻 Shafin Hossain
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1434A4&height=250&section=header&text=SHAFIN&fontSize=60&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1434A4&color=100:06B6D4&height=250&section=header&text=Full%20Stack%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
-# 🚀 Innovative Technology Solutions | Full-Stack Developer
+<div align="center">
 
-## 👨🏻‍🔬 About Me
+### 🚀 Building Scalable Web Solutions | TypeScript • React • Node.js
 
-Passionate full-stack developer transforming innovative ideas into robust digital solutions. With a strategic approach to problem-solving and a keen eye for detail, I craft elegant, efficient code that pushes technological boundaries.
+**Transforming innovative ideas into robust, high-performance digital solutions**
 
-### 🔬 Professional Highlights
+[Portfolio](#) • [Email](mailto:your-email@example.com) • [LinkedIn](#) • [Twitter](#)
 
-- 💼 **Experienced Full-Stack Development Professional**
-- 🌐 Specialized in Cutting-Edge Web Technologies
-- 🚀 Open-Source Contributor & Tech Innovator
-- 🧠 Continuous Learner | Problem-Solving Enthusiast
-
-
-## 🌐 Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shafin_0719) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pao.pop.961) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sha_fin282907) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shshafin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shshafin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shshafin&theme=highcontrast&hide_border=false)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shshafin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![snake gif](https://github.com/shshafin/shshafin/blob/output/github-snake-dark.svg)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shshafin&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shshafin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎯 About Me
+
+I'm a **Full Stack Developer** with a passion for creating elegant, scalable, and user-centric applications. With expertise in modern web technologies, I specialize in architecting end-to-end solutions that solve real-world problems. I combine technical excellence with creative problem-solving to deliver impactful results.
+
+### 🌟 Core Competencies
+- 🎨 **Frontend Architecture** - React, TypeScript, Tailwind CSS, Next.js
+- ⚙️ **Backend Engineering** - Node.js, Express, MongoDB, PostgreSQL, Firebase
+- 🔐 **Full-Stack Development** - RESTful APIs, Authentication, Payment Integration
+- 📊 **Database Design** - NoSQL & SQL optimization, Data modeling
+- 🚀 **DevOps & Deployment** - Git, Docker, CI/CD, Vercel, AWS
+
+---
+
+## 🏆 Featured Projects
+
+### 💼 Production Applications
+
+<table>
+<tr>
+  <td width="50%">
+    <strong>🛍️ Adexcell E-Commerce Platform</strong><br/>
+    Complete e-commerce ecosystem with admin dashboard, inventory management, and Stripe integration
+    <br/><br/>
+    <code>React • TypeScript • Node.js • MongoDB • Stripe</code>
+  </td>
+  <td width="50%">
+    <strong>🏥 CardioLens AI</strong><br/>
+    AI-powered cardiac health analysis with machine learning integration for medical insights
+    <br/><br/>
+    <code>TypeScript • React • Python • TensorFlow</code>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <strong>🎓 Bitwise University</strong><br/>
+    Complete university management system with enrollment, course management, and student portal
+    <br/><br/>
+    <code>React • TypeScript • Node.js • MongoDB</code>
+  </td>
+  <td width="50%">
+    <strong>✅ AllWoven Task Management</strong><br/>
+    Real-time collaborative task management with team features and notifications
+    <br/><br/>
+    <code>TypeScript • React • Firebase • Tailwind CSS</code>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <strong>🎬 CineScope</strong><br/>
+    Movie rating platform with social features, user reviews, and recommendations
+    <br/><br/>
+    <code>TypeScript • Node.js • React • MongoDB</code>
+  </td>
+  <td width="50%">
+    <strong>🚴 Bike Rental System</strong><br/>
+    Rental management application with booking, payments, and inventory tracking
+    <br/><br/>
+    <code>React • TypeScript • Node.js • Stripe</code>
+  </td>
+</tr>
+</table>
+
+---
+
+## 💡 Technical Skills
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Services
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1434A4&height=100&section=footer" width="100%"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shshafin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shshafin&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shshafin&theme=tokyonight&hide_border=false)
+
+</div>
+
+---
+
+## 🎓 Expertise & Specializations
+
+| Category | Skills |
+|----------|--------|
+| **Frontend** | Component Architecture, State Management (Redux/Context), Responsive Design, Performance Optimization |
+| **Backend** | RESTful APIs, Microservices, Authentication (JWT), Database Optimization, Server Deployment |
+| **Full-Stack** | End-to-End Application Development, System Design, Scalability Planning |
+| **DevOps** | Version Control, CI/CD Pipelines, Docker, Cloud Deployment |
+| **Soft Skills** | Problem Solving, Team Collaboration, Agile Development, Technical Communication |
+
+---
+
+## 🚀 Current Focus
+
+- 🔄 Building scalable microservices architectures
+- 🤖 Integrating AI/ML models into web applications
+- 📚 Contributing to open-source communities
+- 🎨 Crafting exceptional user experiences
+- ☁️ Cloud-native application development
+
+---
+
+## 📈 Statistics & Achievements
+
+- ✅ **100+ Projects** completed across various domains
+- 🌟 **Full-Stack Expertise** with proven track record
+- 🚀 **Performance-Optimized** applications delivering fast load times
+- 🔒 **Security-First** approach to application development
+- 📱 **Responsive Design** for all device types
+
+---
+
+## 📚 Recent Articles & Learning
+
+I actively share knowledge about:
+- Advanced TypeScript patterns and best practices
+- React performance optimization techniques
+- Building scalable backend architectures
+- Web security and authentication
+- DevOps and deployment strategies
+
+---
+
+## 💬 Let's Connect!
+
+I'm always excited to discuss new projects, collaborate on interesting ideas, or explore opportunities to create impactful solutions.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shshafin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shshafin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shshafin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shshafin&theme=tokyonight&no-frame=false&row=1)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1434A4&color=100:06B6D4&height=120&section=footer" width="100%"/>
+  
+  <p>⭐ If you find my projects helpful, please consider giving them a star!</p>
+  <p>Made with ❤️ by <strong>Shafin Hossain</strong></p>
 </div>
