@@ -1,4 +1,4 @@
-# Shafin Hossain
+# MD. Sadnan Hossen Shafin
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=280&section=header&text=Shafin%20Hossain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Full%20Stack%20Developer%20%7C%20AI%20Architecture%20%7C%20System%20Design&descAlignY=48&descAlign=50" width="100%"/>
@@ -305,7 +305,7 @@ All repositories include:
   
   <br/>
   
-  **Shafin Hossain** — Enterprise Full Stack Developer
+  **MD. Sadnan Hossen Shafin** — Enterprise Full Stack Developer
   
   Building scalable systems and innovative solutions
   
