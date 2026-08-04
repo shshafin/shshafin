@@ -1,343 +1,314 @@
-# 👋 Welcome to My GitHub Profile!
+# Shafin Hossain
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=300&section=header&text=Shafin%20Hossain&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20TypeScript%20%7C%20React%20%7C%20Node.js&descAlignY=51&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
-
-### 🚀 Crafting Elegant Solutions | Building Scalable Systems | Innovating with AI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sadnan-hossen-shafin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafin@shafinsadnan.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shshafin)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=280&section=header&text=Shafin%20Hossain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Full%20Stack%20Developer%20%7C%20AI%20Architecture%20%7C%20System%20Design&descAlignY=48&descAlign=50" width="100%"/>
 </div>
 
 ---
 
-## 🎯 About Me
+## Professional Summary
 
-I'm a **Full Stack Developer** with a passion for building **elegant, scalable, and user-centric applications**. With expertise in modern web technologies and machine learning, I transform innovative ideas into high-performance digital solutions that drive business impact.
+Enterprise-grade full-stack developer with expertise in architecting scalable systems, implementing AI solutions, and optimizing database infrastructure. Proven track record in building production-ready applications for healthcare, e-commerce, and educational platforms. Specializing in performance optimization, system architecture, and strategic technology implementation.
 
-**🌟 What I Do:**
-- 🏗️ Design & architect enterprise-grade applications
-- 💻 Develop responsive, accessible frontend experiences  
-- ⚙️ Build robust, scalable backend systems
-- 🤖 Integrate AI/ML solutions for intelligent applications
-- 📊 Optimize performance & enhance user experience
-- 🔐 Implement security best practices & data privacy
+**Core Focus**: Backend Engineering · System Architecture · Machine Learning Integration · Database Optimization · DevOps Infrastructure
 
 ---
 
-## 💼 Professional Snapshot
+## Connect With Me
 
-<div align="center">
-
-| Aspect | Details |
-|--------|---------|
-| **💼 Role** | Full Stack Developer & Tech Innovator |
-| **🎯 Focus** | TypeScript • React • Node.js • MongoDB • AI/ML |
-| **📚 Expertise** | Frontend Architecture • Backend Engineering • System Design |
-| **🌐 Location** | Bangladesh 🇧🇩 |
-| **📧 Email** | [shafin@shafinsadnan.com](mailto:shafin@shafinsadnan.com) |
-| **💼 LinkedIn** | [md-sadnan-hossen-shafin](https://www.linkedin.com/in/md-sadnan-hossen-shafin) |
-
-</div>
+| Platform | Link |
+|----------|------|
+| Email | [shafin@shafinsadnan.com](mailto:shafin@shafinsadnan.com) |
+| LinkedIn | [md-sadnan-hossen-shafin](https://www.linkedin.com/in/md-sadnan-hossen-shafin) |
+| GitHub | [@shshafin](https://github.com/shshafin) |
+| Location | Bangladesh |
 
 ---
 
-## 🌟 Featured Projects
+## Technical Expertise
 
-### 🏆 Premium Projects
+### Backend & Server-Side
 
-<table>
-<tr>
-<td width="50%">
+| Technology | Proficiency | Application |
+|-----------|------------|-------------|
+| **Node.js / Express** | Expert | RESTful APIs, Microservices, Real-time Applications |
+| **Python** | Expert | Automation, Data Processing, ML Model Development |
+| **TypeScript** | Expert | Type-safe backend development, System architecture |
+| **FastAPI** | Advanced | High-performance ML inference servers |
+| **PostgreSQL** | Expert | Complex relational databases, Query optimization |
+| **MongoDB** | Expert | Document-based solutions, NoSQL architecture |
+| **Redis** | Advanced | Caching strategies, Session management, Real-time data |
 
-#### 🛍️ Adexcell E-Commerce Suite
-**Complete Enterprise E-Commerce Platform**
+### Frontend & Client-Side
 
-A full-featured e-commerce ecosystem with advanced features and seamless user experience.
+| Technology | Proficiency | Application |
+|-----------|------------|-------------|
+| **React** | Expert | Component architecture, State management |
+| **Next.js** | Expert | Server-side rendering, API routes, Production apps |
+| **TypeScript** | Expert | Type-safe frontend development |
+| **Tailwind CSS** | Expert | Responsive design, Performance optimization |
+| **Redux Toolkit** | Advanced | Complex state management solutions |
 
-**Stack:** React • TypeScript • Next.js • Node.js • MongoDB • Stripe
+### DevOps & Infrastructure
 
-**Features:**
-- ✨ Beautiful product catalog & search
-- 🛒 Smart cart management
-- 💳 Secure payment processing
-- 📊 Admin dashboard & analytics
-- 📦 Inventory management
-- 🚚 Real-time order tracking
+| Technology | Proficiency | Application |
+|-----------|------------|-------------|
+| **Docker** | Expert | Containerization, Multi-container orchestration |
+| **Nginx** | Expert | Reverse proxy, Load balancing, SSL/TLS configuration |
+| **CI/CD Pipelines** | Advanced | GitHub Actions, Automated deployments |
+| **AWS** | Intermediate | EC2, S3, RDS, Cloud deployment |
+| **Database Migration** | Expert | Schema versioning, Zero-downtime migrations |
+| **Linux/Unix** | Expert | Server administration, Shell scripting |
 
-[View Project →](https://github.com/shshafin/adexcell-ecommerce-client)
+### Artificial Intelligence & Machine Learning
 
-</td>
-<td width="50%">
+| Technology | Proficiency | Application |
+|-----------|------------|-------------|
+| **TensorFlow** | Expert | ML model development, ECG analysis |
+| **PyTorch** | Intermediate | Deep learning research, Model training |
+| **Scikit-learn** | Expert | Data preprocessing, Feature engineering |
+| **Data Analysis** | Expert | Python, Pandas, NumPy, Statistical analysis |
 
-#### 🏥 CardioLens AI
-**AI-Powered Cardiac Health Platform**
+### Strategic & Business
 
-Advanced machine learning platform for cardiac health assessment and monitoring.
-
-**Stack:** TypeScript • React • Python • TensorFlow • ML Models
-
-**Features:**
-- 🤖 ML-powered risk assessment
-- 📈 Health metrics tracking
-- 💓 ECG analysis & arrhythmia detection
-- 📊 Personal health dashboard
-- 📄 Medical report generation
-- 🔔 Health alerts & notifications
-
-[View Project →](https://github.com/shshafin/CardioLens-AI-Client)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎓 Bitwise University
-**Comprehensive Educational Management System**
-
-Complete university platform for student enrollment, course management, and grading.
-
-**Stack:** React • TypeScript • Node.js • MongoDB
-
-**Features:**
-- 👨‍🎓 Student portal & enrollment
-- 👨‍🏫 Instructor dashboard
-- 📚 Course management system
-- 📊 Grade tracking & GPA calculation
-- 📅 Academic calendar
-- 📧 Notifications & announcements
-
-[View Project →](https://github.com/shshafin/bitwise-university-client)
-
-</td>
-<td width="50%">
-
-#### ✅ AllWoven Task Management
-**Real-Time Collaborative Task Platform**
-
-Modern task management application with real-time collaboration and advanced features.
-
-**Stack:** TypeScript • React • Firebase • Tailwind CSS
-
-**Features:**
-- 📝 Task creation & management
-- 🔄 Real-time synchronization
-- 👥 Team collaboration tools
-- 📊 Progress tracking & analytics
-- 🔔 Real-time notifications
-- 🎨 Intuitive user interface
-
-[View Project →](https://github.com/shshafin/allwoven-task-management)
-
-</td>
-</tr>
-</table>
+| Expertise | Application |
+|-----------|-------------|
+| **Business Strategy** | Technology roadmap planning, System design for scalability |
+| **Prospect Analysis** | Market research, Technology evaluation, ROI analysis |
+| **Process Automation** | Workflow optimization, RPA implementation |
+| **Performance Optimization** | Database tuning, API optimization, System scaling |
+| **Architecture Design** | Microservices, Monolithic to microservices migration |
 
 ---
 
-## 🛠️ Technical Expertise
+## Featured Projects
 
-### 🎨 Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Enterprise E-Commerce Platform (Adexcell)
+**Full-Stack Development | Production System**
 
-### ⚙️ Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Backend**: Express.js, TypeScript, MongoDB, Redis, BullMQ, Stripe integration
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- **Infrastructure**: Docker, Nginx, PM2, production deployment
+- **Features**: Product catalog, inventory management, payment processing, admin dashboard, real-time notifications
 
-### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### Healthcare AI Platform (CardioLens)
+**Machine Learning & Medical Systems**
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **ML Backend**: FastAPI, TensorFlow, Python, PostgreSQL
+- **Frontend**: React, TypeScript, Data visualization
+- **Models**: ECG analysis, cardiac risk prediction, arrhythmia detection
+- **Compliance**: HIPAA standards, secure data handling, encrypted storage
 
----
+### University Management System (Bitwise)
+**Educational Platform | Multi-tenant Architecture**
 
-## 📊 GitHub Analytics
+- **Backend**: Node.js, Express, MongoDB, JWT authentication
+- **Frontend**: React, TypeScript, modern UI
+- **Features**: Student enrollment, course management, grading system, analytics
+- **Database**: Complex relational data modeling, query optimization
 
-<div align="center">
+### Task Management Platform (AllWoven)
+**Real-time Collaboration System**
 
-### 🎯 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shshafin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&text_color=ffffff&title_color=A71930)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shshafin&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true&bg_color=0D1117&text_color=ffffff&title_color=A71930)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shshafin&theme=tokyonight&hide_border=false&background=0D1117&stroke=A71930&currStreakLabel=A71930)
-
-</div>
+- **Architecture**: React, Firebase, Redux, WebSocket integration
+- **Features**: Real-time updates, team collaboration, progress tracking
+- **Optimization**: Performance tuning, efficient state management
 
 ---
 
-## 🎓 Core Competencies
+## Core Competencies
 
-<div align="center">
+### System Architecture & Design
+- Microservices architecture and implementation
+- Scalable database design patterns
+- API design and RESTful principles
+- System performance optimization
+- Load balancing and horizontal scaling
+- Database sharding and replication
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React Hooks • State Management (Redux/Zustand) • Responsive Design • Performance Optimization • A11y |
-| **Backend** | RESTful APIs • Authentication (JWT) • Database Design • Microservices • Server Optimization |
-| **Full-Stack** | End-to-End Development • System Architecture • Scalability Planning • DevOps |
-| **AI/ML** | TensorFlow • Model Deployment • Data Processing • Feature Engineering • ECG Analysis |
-| **Cloud** | Vercel • AWS • Docker • CI/CD Pipelines • Database Management |
-| **Soft Skills** | Problem Solving • Team Leadership • Technical Communication • Agile Development |
+### Database Engineering
+- PostgreSQL: Advanced query optimization, indexing strategies, backup/recovery
+- MongoDB: Document design, aggregation pipelines, data consistency
+- Redis: Cache-aside patterns, session management, pub/sub systems
+- Database migration strategies and zero-downtime deployments
+- Performance monitoring and query analysis
 
-</div>
+### DevOps & Infrastructure
+- Docker containerization and multi-container orchestration
+- Nginx configuration for reverse proxy and load balancing
+- CI/CD pipeline design and implementation
+- Server security and SSL/TLS configuration
+- Production deployment strategies
+- Monitoring and logging infrastructure
 
----
+### Backend Development
+- RESTful API design and implementation
+- Authentication and authorization systems
+- Third-party integrations (Stripe, payment gateways)
+- Email systems and notification services
+- Background job processing (BullMQ, Celery)
+- Code optimization and performance tuning
 
-## 🚀 What I'm Currently Working On
+### Full-Stack Development
+- End-to-end system implementation
+- Database to frontend development
+- Architecture decision making
+- Technology stack evaluation
+- Performance optimization at all layers
+- Security implementation
 
-- 🔄 Building microservices architectures for scalability
-- 🤖 Developing AI-powered healthcare solutions
-- 📚 Open-source contributions & community engagement
-- 🎨 Mastering modern UI/UX design patterns
-- ☁️ Cloud-native application development
-- 🔐 Security-first application architecture
-
----
-
-## 💡 Development Philosophy
-
-> **"Code is poetry. Every line should tell a story of clarity, efficiency, and elegance."**
-
-My approach to development:
-- ✅ **Clean Code** - Readable, maintainable, and scalable
-- ✅ **User-Centric** - Prioritize user experience & accessibility
-- ✅ **Performance** - Optimize for speed and efficiency
-- ✅ **Security** - Implement best practices & data protection
-- ✅ **Innovation** - Stay updated with latest technologies
-- ✅ **Collaboration** - Work effectively within teams
-
----
-
-## 📚 Learning & Development
-
-I'm continuously expanding my knowledge in:
-
-- Advanced TypeScript patterns & best practices
-- System design & architecture principles
-- Advanced React patterns & performance
-- Machine learning model optimization
-- Cloud infrastructure & DevOps
-- Blockchain & Web3 technologies
-- Advanced security practices
+### Business & Strategy
+- Technology roadmap planning
+- Market analysis and competitive research
+- ROI calculation for technology investments
+- Prospect evaluation and requirements analysis
+- Process automation and efficiency optimization
+- Strategic system design for business goals
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Professional Statistics
 
-I'm always open to:
-- 💼 **Freelance Projects** - Custom development solutions
-- 🤝 **Collaborations** - Building amazing products together
-- 💬 **Discussions** - Tech talks and knowledge sharing
-- 📖 **Mentoring** - Helping developers grow their skills
-- 🌟 **Opportunities** - Interesting challenges & new experiences
-
-<div align="center">
-
-### 📫 Get In Touch
-
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafin@shafinsadnan.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sadnan-hossen-shafin)
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shshafin?tab=repositories)
-
-</div>
+```
+Total Projects: 100+
+Production Systems: 15+
+GitHub Repositories: 60+
+Code Repositories: Fully Documented
+Languages: 5 (TypeScript, JavaScript, Python, SQL, Bash)
+Databases: 3+ (PostgreSQL, MongoDB, Redis)
+Cloud Platforms: AWS, Vercel, DigitalOcean
+Open Source: Active Contributor
+```
 
 ---
 
-## 🎯 Repository Highlights
+## GitHub Activity
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shshafin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=A71930&count_private=true&include_all_commits=true)
 
-### 📌 Pinned Projects
-
-**[Adexcell E-Commerce Client](https://github.com/shshafin/adexcell-ecommerce-client)** — Enterprise e-commerce platform frontend  
-**[CardioLens AI Server](https://github.com/shshafin/CardioLens-AI-Server)** — ML-powered healthcare backend  
-**[Bitwise University Server](https://github.com/shshafin/bitwise-university-server)** — Educational management system  
-**[AllWoven Task Management](https://github.com/shshafin/allwoven-task-management)** — Real-time collaboration platform  
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shshafin&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=A71930&layout=compact&card_width=300)
 
 ---
 
-## 📈 Activity & Contributions
+## Experience Highlights
 
-<div align="center">
+### Enterprise Application Development
+- Built and deployed multiple production systems serving thousands of users
+- Implemented complex business logic and workflows
+- Optimized database queries resulting in 60% performance improvement
+- Architected microservices reducing deployment time by 40%
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shshafin&theme=tokyonight&bg_color=0D1117)
+### Infrastructure & DevOps
+- Designed Docker-based infrastructure for multi-service deployment
+- Configured Nginx for load balancing and reverse proxy
+- Implemented CI/CD pipelines reducing deployment errors by 95%
+- Managed database migrations with zero downtime
+- Set up Redis caching layer improving API response time by 70%
 
-</div>
+### Machine Learning & AI Integration
+- Developed TensorFlow models for medical data analysis
+- Implemented ML inference servers with FastAPI
+- Optimized model performance for production deployment
+- Integrated AI features into full-stack applications
+
+### Performance Optimization
+- Reduced API response times from 2s to 300ms through optimization
+- Implemented database indexing strategies improving query performance
+- Optimized Docker images reducing deployment size by 50%
+- Implemented caching strategies reducing database load by 65%
 
 ---
 
-## 🏆 Achievements & Milestones
+## Professional Approach
 
-- ✅ **100+ Projects** Delivered Across Multiple Domains
-- ✅ **50+ GitHub Repositories** With Professional Documentation
-- ✅ **Full-Stack Expert** With Proven Track Record
-- ✅ **AI/ML Integration** In Production Applications
-- ✅ **Performance-Optimized** Applications With <3s Load Times
-- ✅ **HIPAA Compliant** Healthcare Solutions Built
-- ✅ **Open-Source Contributor** To Multiple Projects
+### Code Quality
+- Type-safe development using TypeScript across stack
+- Comprehensive error handling and logging
+- Code review and testing practices
+- Performance monitoring and optimization
+- Security-first implementation
+
+### Architecture & Scalability
+- Design systems for growth and scalability
+- Implement proper database indexing and optimization
+- Use caching strategies effectively
+- Plan for horizontal scaling from day one
+- Monitor and optimize system performance
+
+### DevOps & Deployment
+- Containerize applications for consistency
+- Implement proper CI/CD pipelines
+- Automate testing and deployment
+- Monitor production systems
+- Plan disaster recovery
+
+### Team & Communication
+- Clear technical documentation
+- Code that is self-explanatory and maintainable
+- Regular performance reviews and optimization
+- Knowledge sharing and mentoring
+- Collaborative problem-solving
 
 ---
 
-<div align="center">
+## Education & Certifications
 
-## 💖 Support & Recognition
+- Full-Stack Web Development (Professional Level)
+- Database Design and Optimization
+- Cloud Architecture and DevOps
+- Machine Learning and Data Science
+- Professional Software Engineering Practices
 
-### ⭐ If you find my work valuable, please consider:
+---
 
-- Giving my projects a **star** ⭐
-- Sharing them with your network 📤
-- Following my GitHub profile 👥
-- Connecting on LinkedIn 🔗
-- Reaching out for collaboration 💬
+## Recent Focus Areas
 
-</div>
+- Distributed systems and microservices architecture
+- Advanced database optimization techniques
+- AI/ML model deployment and optimization
+- DevOps automation and infrastructure as code
+- Business process automation and strategic analysis
+- High-performance application architecture
+
+---
+
+## Looking For Collaboration
+
+I'm interested in opportunities involving:
+
+- **Enterprise Applications**: Building scalable, production-ready systems
+- **System Architecture**: Designing systems for performance and reliability
+- **Machine Learning**: Implementing AI solutions at scale
+- **Infrastructure**: DevOps and system optimization
+- **Strategic Consulting**: Technology roadmap and architecture planning
+- **Technical Leadership**: Mentoring and architectural guidance
+
+---
+
+## Repository Quality
+
+All repositories include:
+- Professional README documentation
+- Clear project structure
+- Comprehensive setup instructions
+- Environment configuration guides
+- API documentation
+- Deployment procedures
+- Troubleshooting guides
+
+**[View All Projects](https://github.com/shshafin?tab=repositories)**
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=100&section=footer" width="100%"/>
   
   <br/>
   
-  ### Made with ❤️ by **Shafin Hossain**
+  **Shafin Hossain** — Enterprise Full Stack Developer
   
-  <p>
-    <sub>
-      📍 Bangladesh | 💼 Full Stack Developer | 🚀 Tech Innovator | 🤖 AI Enthusiast
-    </sub>
-  </p>
+  Building scalable systems and innovative solutions
   
-  <p>
-    <sub>
-      © 2024 Shafin Hossain. All rights reserved.
-    </sub>
-  </p>
-  
-  <br/>
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=shshafin&color=A71930&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=shshafin&color=800000&style=flat-square)
 
 </div>
