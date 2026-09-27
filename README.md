@@ -2,74 +2,72 @@
 
 # Shafin Sadnan
 
-**Product Engineer & Full-Stack Developer**
+**Full-Stack Product Engineer**
 
-I build digital products, improve existing systems, and handle implementation across frontend, backend, APIs, workflows, integrations, and modernization.
+I build modern web products, ship reliable systems, and turn ideas into production-ready applications with strong frontend, backend, and API integration work.
 
-[Website](https://shafinsadnan.com) ·
-[Start a project](https://shafinsadnan.com/contact) ·
-[Email](mailto:shafin@shafinsadnan.com) ·
-[LinkedIn](https://www.linkedin.com/in/md-sadnan-hossen-shafin/)
+[Website](https://shafinsadnan.com) · [Case Studies](https://shafinsadnan.com/case-studies) · [Services](https://shafinsadnan.com/services) · [LinkedIn](https://www.linkedin.com/in/md-sadnan-hossen-shafin/) · [Email](mailto:shafin@shafinsadnan.com)
 
 </div>
 
 ---
 
-## Selected production work
+## About Me
 
-Public write-ups with delivery boundaries live on the website. The summaries below stay inside those boundaries.
+I work across product implementation, full-stack development, modernization, and deployment. My focus is building digital products that are practical, scalable, and user-friendly.
 
-### Tutorliy — location dependency replacement
+### Main strengths
 
-Tuition marketplace work covering authentication, search/location matching, backend workflows, and deployment. Replaced an external location-search dependency with a self-hosted Bangladesh OpenStreetMap + SQLite FTS5 path while keeping the existing MongoDB radius-matching logic.
-
-[Case study](https://shafinsadnan.com/case-studies/tutorliy-smart-tuition-matching)
-
-### Rifat Academy — LMS modernization & data migration
-
-Moved a legacy WordPress/MariaDB LMS into a custom Next.js + Node/Express + MongoDB application. Owned migration of required production data, authentication checks for admin/student paths, and production serving/deploy (Nginx/HTTPS, PM2, GitHub Actions).
-
-[Case study](https://shafinsadnan.com/case-studies/lms-platform-migration-scale)
-
-### DripGym — reusable Shopify treatment pages
-
-Recurring Shopify/Liquid production delivery in an agency-to-end-client workflow: reusable treatment-page patterns, structured-data alignment with visible content, and analytics/tracking support. Delivery is implementation-focused, not a Shopify specialist brand claim.
-
-[Case study](https://shafinsadnan.com/case-studies/dripgym-shopify-treatment-seo) · [For agencies](https://shafinsadnan.com/for-agencies)
-
-### TiresDash — WordPress-to-custom modernization
-
-Modernized an operational product from WordPress toward a custom Next.js/TypeScript application with booking flows, fleet/vehicle-management and supporting admin/business workflows, including migration of relevant data where required.
-
-[Case study](https://shafinsadnan.com/case-studies/tiresdash-wordpress-to-nextjs-migration)
+- Frontend engineering with Next.js and React
+- Backend APIs with Node.js and Express
+- MongoDB and database-driven application work
+- Authentication, integrations, and production workflows
+- Product modernization and legacy system upgrades
 
 ---
 
-## Core stack
+## Featured Work
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Node.js` · `APIs` · `MongoDB` · `PostgreSQL / SQL` · `Tailwind CSS`
+### GSL
+- Full-stack business product with modern frontend and backend architecture
+- Client: https://github.com/shshafin/gsl-client
+- Server: https://github.com/shshafin/gsl-server
 
-Additional tools appear when a project needs them (for example Express, Nginx, SQLite, Shopify/Liquid, WordPress as a migration or CMS source). I do not use proficiency scores or skill-tier labels here.
+### Fog News
+- Multimedia news platform with content-heavy frontend and API-backed backend
+- Client: https://github.com/shshafin/fog-news-client
+- Server: https://github.com/shshafin/fog-news-server
+
+### Other product work
+- e-commerce and marketplace platforms
+- LMS and learning systems
+- admin dashboards and operational workflows
+- portfolio and agency-style digital products
 
 ---
 
-## What I work on
+## Tech Stack
 
-- Product and full-stack implementation for web applications
-- Fixes, integrations, and modernization of existing systems
-- Frontend / backend / API work with clear delivery boundaries
-- Workflow and handoff problems between sites, apps, and tools
-- Production deployment paths when they are part of the agreed scope
-
-For how I scope work commercially, see [Services](https://shafinsadnan.com/services) and [For agencies](https://shafinsadnan.com/for-agencies).
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS` · `REST APIs` · `JWT` · `PostgreSQL / SQL`
 
 ---
 
-## Links
+## GitHub Highlights
 
-- **Website:** [shafinsadnan.com](https://shafinsadnan.com)
-- **Case studies:** [shafinsadnan.com/case-studies](https://shafinsadnan.com/case-studies)
-- **Services:** [shafinsadnan.com/services](https://shafinsadnan.com/services)
-- **Contact:** [shafinsadnan.com/contact](https://shafinsadnan.com/contact)
-- **LinkedIn:** [md-sadnan-hossen-shafin](https://www.linkedin.com/in/md-sadnan-hossen-shafin/)
-- **Email:** [shafin@shafinsadnan.com](mailto:shafin@shafinsadnan.com)
+- production-focused full-stack development
+- long-term project work across multiple product categories
+- implementation across frontend, backend, and integrations
+- active contribution history across client/server projects
+
+---
+
+## Connect
+
+- Website: https://shafinsadnan.com
+- LinkedIn: https://www.linkedin.com/in/md-sadnan-hossen-shafin/
+- Email: shafin@shafinsadnan.com
+- GitHub: https://github.com/shshafin
+
+---
+
+> I focus on building useful products, improving core systems, and delivering production-ready implementation from idea to deployment.
